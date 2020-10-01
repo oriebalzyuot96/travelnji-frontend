@@ -35,6 +35,7 @@ function App() {
         <Route path="/SlideShow" exact component={SlideShow} />
 
 
+    <Route path="/" exact component={contact} />
 
 
 
